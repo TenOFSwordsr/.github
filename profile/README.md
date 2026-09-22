@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=DotGothic16&weight=400&size=22&duration=3500&pause=900&color=00F59B&center=true&vCenter=true&width=820&height=62&lines=ten%20swords%20in%20the%20back%20%E3%83%BB%20still%20shipping;lean%20runtimes%20%E3%83%BB%20stealth%20sockets%20%E3%83%BB%20silent%20daemons;46%20repositories%20%E3%83%BB%20documentation%20first%20%E3%83%BB%20zero%20fluff;the%20worst%20is%20over%20%E3%83%BB%20see%20you%20on%20the%20next%20hop%20%E2%99%A1)](https://github.com/orgs/TenOFSwordsr/repositories)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=DotGothic16&weight=400&size=22&duration=3500&pause=900&color=00F59B&center=true&vCenter=true&width=820&height=62&lines=ten%20swords%20in%20the%20back%20%E3%83%BB%20still%20shipping;lean%20runtimes%20%E3%83%BB%20stealth%20sockets%20%E3%83%BB%20silent%20daemons;55%20repositories%20%E3%83%BB%20documentation%20first%20%E3%83%BB%20zero%20fluff;the%20worst%20is%20over%20%E3%83%BB%20see%20you%20on%20the%20next%20hop%20%E2%99%A1)](https://github.com/orgs/TenOFSwordsr/repositories)
 
 # ten of swords ・ TenOFSwordsr
 
 **lean runtimes ・ stealth sockets ・ silent daemons ・ best parsed over an encrypted wire ♡**
 
-[![repositories](https://img.shields.io/badge/repositories-46-00f59b?style=for-the-badge&logo=github&logoColor=042f22)](https://github.com/orgs/TenOFSwordsr/repositories)
+[![repositories](https://img.shields.io/badge/repositories-55-00f59b?style=for-the-badge&logo=github&logoColor=042f22)](https://github.com/orgs/TenOFSwordsr/repositories)
 [![project index](https://img.shields.io/badge/project%20index-readable-00f59b?style=for-the-badge&logo=readme-dot-cc&logoColor=042f22)](https://github.com/orgs/TenOFSwordsr/repositories?tab=readme)
 [![languages](https://img.shields.io/badge/Mojo%20%2B%20Go%20%2B%20Python%20%2B%20Kotlin-00f59b?style=for-the-badge&logo=python&logoColor=042f22)](https://github.com/orgs/TenOFSwordsr/repositories?language_sort=)
 [![no trackers](https://img.shields.io/badge/no%20trackers%20%2B%20no%20analytics-00f59b?style=for-the-badge&logo=ghost&logoColor=042f22)](#TenOFSwordsr)
